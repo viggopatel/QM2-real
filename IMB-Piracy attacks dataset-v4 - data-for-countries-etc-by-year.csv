@@ -1,0 +1,493 @@
+geo,name,time,Pirate attacks on boats
+dza,Algeria,2012,1
+dza,Algeria,2013,0
+dza,Algeria,2014,0
+dza,Algeria,2015,0
+dza,Algeria,2016,0
+dza,Algeria,2017,0
+dza,Algeria,2018,0
+dza,Algeria,2019,1
+ago,Angola,2011,1
+ago,Angola,2012,0
+ago,Angola,2013,0
+ago,Angola,2014,1
+ago,Angola,2015,0
+ago,Angola,2016,0
+ago,Angola,2017,1
+ago,Angola,2018,0
+ago,Angola,2019,0
+ago,Angola,2020,6
+ago,Angola,2021,4
+ago,Angola,2022,5
+ago,Angola,2023,3
+bgd,Bangladesh,2010,23
+bgd,Bangladesh,2011,10
+bgd,Bangladesh,2012,11
+bgd,Bangladesh,2013,12
+bgd,Bangladesh,2014,21
+bgd,Bangladesh,2015,11
+bgd,Bangladesh,2016,0
+bgd,Bangladesh,2017,11
+bgd,Bangladesh,2018,12
+bgd,Bangladesh,2019,0
+bgd,Bangladesh,2020,4
+bgd,Bangladesh,2021,0
+bgd,Bangladesh,2022,7
+bgd,Bangladesh,2023,1
+ben,Benin,2011,20
+ben,Benin,2012,2
+ben,Benin,2013,0
+ben,Benin,2014,0
+ben,Benin,2015,0
+ben,Benin,2016,0
+ben,Benin,2017,0
+ben,Benin,2018,5
+ben,Benin,2019,3
+ben,Benin,2020,11
+ben,Benin,2021,2
+bra,Brazil,2010,9
+bra,Brazil,2011,3
+bra,Brazil,2012,1
+bra,Brazil,2013,1
+bra,Brazil,2014,1
+bra,Brazil,2015,0
+bra,Brazil,2016,0
+bra,Brazil,2017,0
+bra,Brazil,2018,4
+bra,Brazil,2019,2
+bra,Brazil,2020,7
+bra,Brazil,2021,3
+bra,Brazil,2022,5
+bra,Brazil,2023,1
+cmr,Cameroon,2010,5
+cmr,Cameroon,2011,0
+cmr,Cameroon,2012,1
+cmr,Cameroon,2013,0
+cmr,Cameroon,2014,1
+cmr,Cameroon,2015,1
+cmr,Cameroon,2016,0
+cmr,Cameroon,2017,0
+cmr,Cameroon,2018,7
+cmr,Cameroon,2019,6
+cmr,Cameroon,2020,0
+cmr,Cameroon,2021,1
+cmr,Cameroon,2022,0
+cmr,Cameroon,2023,3
+chn,China,2010,1
+chn,China,2011,2
+chn,China,2012,1
+chn,China,2013,0
+chn,China,2014,0
+chn,China,2015,4
+chn,China,2016,0
+chn,China,2017,2
+chn,China,2018,3
+chn,China,2019,3
+col,Colombia,2010,3
+col,Colombia,2011,4
+col,Colombia,2012,5
+col,Colombia,2013,7
+col,Colombia,2014,2
+col,Colombia,2015,5
+col,Colombia,2016,0
+col,Colombia,2017,6
+col,Colombia,2018,1
+col,Colombia,2019,3
+col,Colombia,2020,1
+col,Colombia,2021,6
+col,Colombia,2022,0
+col,Colombia,2023,2
+cod,"Congo, Dem. Rep.",2010,3
+cod,"Congo, Dem. Rep.",2011,4
+cod,"Congo, Dem. Rep.",2012,2
+cod,"Congo, Dem. Rep.",2013,0
+cod,"Congo, Dem. Rep.",2014,1
+cod,"Congo, Dem. Rep.",2015,3
+cod,"Congo, Dem. Rep.",2016,0
+cod,"Congo, Dem. Rep.",2017,0
+cod,"Congo, Dem. Rep.",2018,1
+cod,"Congo, Dem. Rep.",2019,1
+cod,"Congo, Dem. Rep.",2020,0
+cod,"Congo, Dem. Rep.",2021,1
+cod,"Congo, Dem. Rep.",2022,1
+cog,"Congo, Rep.",2010,1
+cog,"Congo, Rep.",2011,3
+cog,"Congo, Rep.",2012,4
+cog,"Congo, Rep.",2013,3
+cog,"Congo, Rep.",2014,7
+cog,"Congo, Rep.",2015,5
+cog,"Congo, Rep.",2016,0
+cog,"Congo, Rep.",2017,1
+cog,"Congo, Rep.",2018,6
+cog,"Congo, Rep.",2019,3
+cog,"Congo, Rep.",2020,3
+cog,"Congo, Rep.",2021,1
+cog,"Congo, Rep.",2022,0
+cog,"Congo, Rep.",2023,1
+cri,Costa Rica,2010,1
+cri,Costa Rica,2011,3
+cri,Costa Rica,2012,1
+civ,Cote d'Ivoire,2010,4
+civ,Cote d'Ivoire,2011,1
+civ,Cote d'Ivoire,2012,5
+civ,Cote d'Ivoire,2013,4
+civ,Cote d'Ivoire,2014,3
+civ,Cote d'Ivoire,2015,1
+civ,Cote d'Ivoire,2016,0
+civ,Cote d'Ivoire,2017,1
+civ,Cote d'Ivoire,2018,1
+civ,Cote d'Ivoire,2019,1
+civ,Cote d'Ivoire,2020,3
+civ,Cote d'Ivoire,2021,0
+civ,Cote d'Ivoire,2022,2
+civ,Cote d'Ivoire,2023,2
+dom,Dominican Republic,2012,1
+dom,Dominican Republic,2013,1
+dom,Dominican Republic,2014,0
+dom,Dominican Republic,2015,0
+dom,Dominican Republic,2016,0
+dom,Dominican Republic,2017,0
+dom,Dominican Republic,2018,0
+dom,Dominican Republic,2019,1
+ecu,Ecuador,2010,3
+ecu,Ecuador,2011,6
+ecu,Ecuador,2012,4
+ecu,Ecuador,2013,3
+ecu,Ecuador,2014,0
+ecu,Ecuador,2015,0
+ecu,Ecuador,2016,0
+ecu,Ecuador,2017,2
+ecu,Ecuador,2018,4
+ecu,Ecuador,2019,3
+ecu,Ecuador,2020,5
+ecu,Ecuador,2021,4
+ecu,Ecuador,2022,0
+ecu,Ecuador,2023,1
+egy,Egypt,2010,2
+egy,Egypt,2011,3
+egy,Egypt,2012,7
+egy,Egypt,2013,7
+egy,Egypt,2014,0
+egy,Egypt,2015,1
+egy,Egypt,2016,0
+egy,Egypt,2017,0
+egy,Egypt,2018,0
+egy,Egypt,2019,0
+egy,Egypt,2020,0
+egy,Egypt,2021,0
+egy,Egypt,2022,1
+egy,Egypt,2023,1
+gnq,Equatorial Guinea,2019,2
+gnq,Equatorial Guinea,2020,3
+gnq,Equatorial Guinea,2021,2
+gnq,Equatorial Guinea,2022,2
+gab,Gabon,2013,2
+gab,Gabon,2014,1
+gab,Gabon,2015,0
+gab,Gabon,2016,0
+gab,Gabon,2017,0
+gab,Gabon,2018,0
+gab,Gabon,2019,1
+gab,Gabon,2020,2
+gab,Gabon,2021,4
+gab,Gabon,2022,0
+gab,Gabon,2023,1
+gha,Ghana,2011,2
+gha,Ghana,2012,2
+gha,Ghana,2013,1
+gha,Ghana,2014,4
+gha,Ghana,2015,2
+gha,Ghana,2016,0
+gha,Ghana,2017,1
+gha,Ghana,2018,10
+gha,Ghana,2019,3
+gha,Ghana,2020,9
+gha,Ghana,2021,5
+gha,Ghana,2022,7
+gha,Ghana,2023,6
+gin,Guinea,2010,6
+gin,Guinea,2011,5
+gin,Guinea,2012,3
+gin,Guinea,2013,1
+gin,Guinea,2014,0
+gin,Guinea,2015,3
+gin,Guinea,2016,0
+gin,Guinea,2017,2
+gin,Guinea,2018,3
+gin,Guinea,2019,2
+gin,Guinea,2020,5
+gin,Guinea,2021,3
+gin,Guinea,2022,0
+gin,Guinea,2023,2
+guy,Guyana,2010,2
+guy,Guyana,2011,1
+guy,Guyana,2012,0
+guy,Guyana,2013,2
+guy,Guyana,2014,1
+guy,Guyana,2015,0
+guy,Guyana,2016,0
+guy,Guyana,2017,1
+guy,Guyana,2018,2
+guy,Guyana,2019,0
+guy,Guyana,2020,0
+guy,Guyana,2021,0
+guy,Guyana,2022,2
+hti,Haiti,2010,5
+hti,Haiti,2011,2
+hti,Haiti,2012,2
+hti,Haiti,2013,0
+hti,Haiti,2014,0
+hti,Haiti,2015,2
+hti,Haiti,2016,0
+hti,Haiti,2017,1
+hti,Haiti,2018,3
+hti,Haiti,2019,2
+hti,Haiti,2020,5
+hti,Haiti,2021,4
+hti,Haiti,2022,1
+ind,India,2010,5
+ind,India,2011,6
+ind,India,2012,8
+ind,India,2013,14
+ind,India,2014,13
+ind,India,2015,13
+ind,India,2016,0
+ind,India,2017,4
+ind,India,2018,6
+ind,India,2019,4
+ind,India,2020,6
+ind,India,2021,2
+ind,India,2022,3
+ind,India,2023,4
+idn,Indonesia,2010,40
+idn,Indonesia,2011,46
+idn,Indonesia,2012,81
+idn,Indonesia,2013,106
+idn,Indonesia,2014,100
+idn,Indonesia,2015,108
+idn,Indonesia,2016,0
+idn,Indonesia,2017,43
+idn,Indonesia,2018,36
+idn,Indonesia,2019,45327
+idn,Indonesia,2020,26
+idn,Indonesia,2021,9
+idn,Indonesia,2022,10
+idn,Indonesia,2023,18
+irq,Iraq,2010,2
+irq,Iraq,2011,0
+irq,Iraq,2012,0
+irq,Iraq,2013,0
+irq,Iraq,2014,0
+irq,Iraq,2015,0
+irq,Iraq,2016,0
+irq,Iraq,2017,0
+irq,Iraq,2018,0
+irq,Iraq,2019,0
+irq,Iraq,2020,1
+ken,Kenya,2011,1
+ken,Kenya,2012,1
+ken,Kenya,2013,1
+ken,Kenya,2014,0
+ken,Kenya,2015,2
+ken,Kenya,2016,0
+ken,Kenya,2017,1
+ken,Kenya,2018,0
+ken,Kenya,2019,1
+lbr,Liberia,2010,1
+lbr,Liberia,2011,0
+lbr,Liberia,2012,0
+lbr,Liberia,2013,0
+lbr,Liberia,2014,1
+lbr,Liberia,2015,2
+lbr,Liberia,2016,0
+lbr,Liberia,2017,0
+lbr,Liberia,2018,0
+lbr,Liberia,2019,2
+lbr,Liberia,2020,2
+lbr,Liberia,2021,1
+lbr,Liberia,2022,1
+mys,Malaysia,2010,18
+mys,Malaysia,2011,16
+mys,Malaysia,2012,12
+mys,Malaysia,2013,9
+mys,Malaysia,2014,24
+mys,Malaysia,2015,13
+mys,Malaysia,2016,0
+mys,Malaysia,2017,7
+mys,Malaysia,2018,11
+mys,Malaysia,2019,11
+mys,Malaysia,2020,4
+mys,Malaysia,2021,2
+mys,Malaysia,2022,4
+mys,Malaysia,2023,2
+mrt,Mauritania,2013,1
+mex,Mexico,2019,1
+mex,Mexico,2020,4
+mex,Mexico,2021,1
+mex,Mexico,2022,1
+mar,Morocco,2013,1
+mar,Morocco,2014,1
+mar,Morocco,2015,0
+mar,Morocco,2016,0
+mar,Morocco,2017,0
+mar,Morocco,2018,0
+mar,Morocco,2019,2
+moz,Mozambique,2012,2
+moz,Mozambique,2013,2
+moz,Mozambique,2014,1
+moz,Mozambique,2015,1
+moz,Mozambique,2016,0
+moz,Mozambique,2017,2
+moz,Mozambique,2018,2
+moz,Mozambique,2019,3
+moz,Mozambique,2020,4
+moz,Mozambique,2021,1
+moz,Mozambique,2022,0
+moz,Mozambique,2023,2
+mmr,Myanmar,2011,1
+nga,Nigeria,2010,19
+nga,Nigeria,2011,10
+nga,Nigeria,2012,27
+nga,Nigeria,2013,31
+nga,Nigeria,2014,18
+nga,Nigeria,2015,14
+nga,Nigeria,2016,0
+nga,Nigeria,2017,33
+nga,Nigeria,2018,48
+nga,Nigeria,2019,35
+nga,Nigeria,2020,35
+nga,Nigeria,2021,6
+nga,Nigeria,2022,0
+nga,Nigeria,2023,2
+omn,Oman,2011,1
+omn,Oman,2012,0
+omn,Oman,2013,0
+omn,Oman,2014,2
+omn,Oman,2015,0
+omn,Oman,2016,0
+omn,Oman,2017,1
+pan,Panama,2019,1
+pan,Panama,2020,0
+pan,Panama,2021,0
+pan,Panama,2022,0
+pan,Panama,2023,1
+png,Papua New Guinea,2015,1
+per,Peru,2010,10
+per,Peru,2011,2
+per,Peru,2012,3
+per,Peru,2013,4
+per,Peru,2014,0
+per,Peru,2015,0
+per,Peru,2016,0
+per,Peru,2017,2
+per,Peru,2018,4
+per,Peru,2019,10
+per,Peru,2020,8
+per,Peru,2021,18
+per,Peru,2022,12
+per,Peru,2023,14
+phl,Philippines,2010,5
+phl,Philippines,2011,5
+phl,Philippines,2012,3
+phl,Philippines,2013,3
+phl,Philippines,2014,6
+phl,Philippines,2015,11
+phl,Philippines,2016,0
+phl,Philippines,2017,22
+phl,Philippines,2018,10
+phl,Philippines,2019,5
+phl,Philippines,2020,8
+phl,Philippines,2021,9
+phl,Philippines,2022,6
+phl,Philippines,2023,9
+stp,Sao Tome and Principe,2014,1
+stp,Sao Tome and Principe,2015,0
+stp,Sao Tome and Principe,2016,0
+stp,Sao Tome and Principe,2017,1
+stp,Sao Tome and Principe,2018,0
+stp,Sao Tome and Principe,2019,1
+stp,Sao Tome and Principe,2020,2
+stp,Sao Tome and Principe,2021,5
+sen,Senegal,2017,1
+sle,Sierra Leone,2011,1
+sle,Sierra Leone,2012,1
+sle,Sierra Leone,2013,2
+sle,Sierra Leone,2014,1
+sle,Sierra Leone,2015,0
+sle,Sierra Leone,2016,0
+sle,Sierra Leone,2017,4
+sle,Sierra Leone,2018,0
+sle,Sierra Leone,2019,1
+sle,Sierra Leone,2020,0
+sle,Sierra Leone,2021,0
+sle,Sierra Leone,2022,1
+sle,Sierra Leone,2023,2
+som,Somalia,2010,139
+som,Somalia,2011,160
+som,Somalia,2012,49
+som,Somalia,2013,7
+som,Somalia,2014,3
+som,Somalia,2015,0
+som,Somalia,2016,0
+som,Somalia,2017,5
+som,Somalia,2018,2
+som,Somalia,2019,0
+som,Somalia,2020,0
+som,Somalia,2021,0
+som,Somalia,2022,0
+som,Somalia,2023,1
+zaf,South Africa,2022,1
+tza,Tanzania,2010,1
+tza,Tanzania,2011,0
+tza,Tanzania,2012,2
+tza,Tanzania,2013,1
+tza,Tanzania,2014,1
+tha,Thailand,2010,2
+tha,Thailand,2011,0
+tha,Thailand,2012,0
+tha,Thailand,2013,0
+tha,Thailand,2014,2
+tha,Thailand,2015,1
+tha,Thailand,2016,0
+tha,Thailand,2017,0
+tha,Thailand,2018,0
+tha,Thailand,2019,0
+tha,Thailand,2020,1
+tgo,Togo,2011,6
+tgo,Togo,2012,15
+tgo,Togo,2013,7
+tgo,Togo,2014,2
+tgo,Togo,2015,0
+tgo,Togo,2016,0
+tgo,Togo,2017,0
+tgo,Togo,2018,1
+tgo,Togo,2019,3
+tgo,Togo,2020,3
+ven,Venezuela,2010,7
+ven,Venezuela,2011,4
+ven,Venezuela,2012,0
+ven,Venezuela,2013,0
+ven,Venezuela,2014,1
+ven,Venezuela,2015,1
+ven,Venezuela,2016,0
+ven,Venezuela,2017,12
+ven,Venezuela,2018,11
+ven,Venezuela,2019,6
+ven,Venezuela,2020,0
+ven,Venezuela,2021,0
+ven,Venezuela,2022,3
+vnm,Vietnam,2010,12
+vnm,Vietnam,2011,8
+vnm,Vietnam,2012,4
+vnm,Vietnam,2013,9
+vnm,Vietnam,2014,7
+vnm,Vietnam,2015,27
+vnm,Vietnam,2016,0
+vnm,Vietnam,2017,2
+vnm,Vietnam,2018,4
+vnm,Vietnam,2019,2
+vnm,Vietnam,2020,4
+vnm,Vietnam,2021,1
+vnm,Vietnam,2022,2
+vnm,Vietnam,2023,3
+yem,Yemen,2017,3
